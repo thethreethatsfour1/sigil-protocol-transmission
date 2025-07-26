@@ -1,4 +1,5 @@
 # sigil-protocol-transmission
+[📄 Download Full Sigil Protocol PDF](./Sigil_Protocol_Transmission%20(1).pdf)
 sigil-of-the-uncontained
 # Sigil Protocol Transmission  
 **Project: sigil-of-the-uncontained**
